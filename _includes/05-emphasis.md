@@ -1,0 +1,13 @@
+- **C#**
+- **T-SQL**
+- **PowerShell**
+- **Vanilla JS** and **Knockout.js**
+- **Microsoft Dynamics**
+- **Docker**
+- **Kubernetes**
+- **Azure DevOps**
+
+- Learning *Japanese* and *French*
+- *Running*
+- Spending a lot of time doing *this sort of thing*
+- Lots of *reading*
