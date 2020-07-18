@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **C#**
+- **T-SQL**
+- **PowerShell**
+- **Vanilla JS** and **Knockout.js**
+- **Microsoft Dynamics**
+- **Docker**
+- **Kubernetes**
+- **Azure DevOps**
+
+- Learning *Japanese* and *French*
+- *Running*
+- Spending a lot of time doing *this sort of thing*
+- Lots of *reading*
